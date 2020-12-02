@@ -25,4 +25,4 @@
 * JS
   
 # Author
-- Silvio Manenti Junior - a not that young guy starting to rock on Web Dev!
+- [Silvio Manenti Junior](https://www.linkedin.com/in/silvio-manenti-junior-782835a3/) - a not that young guy starting to rock on Web Dev!

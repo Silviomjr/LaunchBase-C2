@@ -15,14 +15,14 @@
 # Project Status
 - Done!   
 **Improvements are welcome!  
-<br>
+
 # How to use
 - It's a simple HTML/CSS/JS. Just open in your browser.  
-  <br>
+
 # Techs
 * HTML
 * CSS
 * JS
-<br><br>
+  
 # Author
 - Silvio Manenti Junior - a not that young guy starting to rock on Web Dev!
